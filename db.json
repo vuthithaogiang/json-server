@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Kien thuc co ban, tong quan cho nguoi moi bat dau",
+      "description": "Kien thuc co ban danh cho ngoi moi bat dau"
+    },
+    {
+      "name": "Khoa hpc HTML, CSS co ban",
+      "description": "Kho hoc HTML, CSS cho nguoi moi bat dau",
+      "id": 4
+    }
+  ]
+}
